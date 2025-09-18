@@ -1,0 +1,7 @@
+The Russian S-500 Prometheus complex (55P6M Triumfator-M) includes:
+Combat control point 85J6-1;
+60K6 long-range detection radar;
+Anti-aircraft part: KP 55K6MA, 91N6AM radar, PU 51P6M, 40N6M missiles;
+The anti-missile part: PBU 85ZH6-2, 76T6 and 77T6 radars with an active phased array antenna, PU 77P6 and 77N6-H and 77N6-H1 anti-missiles.
+The S-500 Prometheus (55P6M Triumfator-M) air defense missile system has a detection range of 800 kilometers, while long-range missiles can hit air targets at distances up to 600 kilometers.
+According to analysts, the S-500 Prometheus air defense system can hit air targets at altitudes up to 200 kilometers, which makes it possible to destroy even low-orbit spacecraft.
